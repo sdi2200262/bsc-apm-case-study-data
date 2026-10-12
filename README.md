@@ -22,7 +22,7 @@ parser outputs (`parser_data.json`, `parser_metrics.json`), and the grader outpu
 responses are under `questionnaire/`. The thesis README describes the analysis config that
 points at these files.
 
-## Licence and access
+## License and access
 
 This repository is not openly licensed, as it holds personal data about human participants,
 protected by encryption.
@@ -37,6 +37,14 @@ To request access, write to haidemenoss@gmail.com or sdi2200262@di.uoa.gr with y
 
 ## Related repositories
 
-- [bsc-apm-case-study-infra](https://github.com/sdi2200262/bsc-apm-case-study-infra): the parser and grader used to produce the dataset artefacts.
-- [bsc-apm-case-study-task](https://github.com/sdi2200262/bsc-apm-case-study-task): the task and participant package.
-- [bsc-apm-thesis](https://github.com/sdi2200262/bsc-apm-thesis): the thesis.
+- [bsc-apm-thesis](https://github.com/sdi2200262/bsc-apm-thesis): thesis source, analysis scripts, and generated results.
+- [bsc-apm-case-study-task](https://github.com/sdi2200262/bsc-apm-case-study-task): task, participant package, and testing environment.
+- [bsc-apm-case-study-infra](https://github.com/sdi2200262/bsc-apm-case-study-infra): transcript parser, grader, rubric, and grading environment.
+- [agentic-project-management](https://github.com/sdi2200262/agentic-project-management): the APM framework.
+
+---
+
+*Part of the BSc thesis "Agentic Project Management: A Spec-Driven Multi-Agent Framework for
+AI-Assisted Software Engineering" by Konstantinos Chaidemenos, supervised by Thanassis Avgerinos,
+Department of Informatics and Telecommunications, National and Kapodistrian University of Athens,
+2026.*
