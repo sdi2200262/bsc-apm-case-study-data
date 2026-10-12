@@ -1,0 +1,29 @@
+BSc APM Case Study Data: Terms of Use
+Copyright (C) BSc APM Case Study 2025-2026. All rights reserved.
+
+This repository holds encrypted personal data about case study participants. It is
+not released under an open licence.
+
+1. Encrypted file. You may copy and redistribute `dataset.enc` only unmodified and
+   with this notice. No other right is granted.
+
+2. Decrypted data. The secret required for decryption stays with the author
+   and is given only to reviewers the author authorises, who first agree to
+   these conditions in writing:
+   a. Use the data only to verify or reproduce the thesis's reported analysis.
+   b. Do not try to identify any participant or link the data with other
+      information that could.
+   c. Do not share or publish the decrypted data, the secret, or any extract that
+      could identify a participant.
+   d. Store the decrypted data securely, and delete it and the secret once
+      verification is done or within 6 months of receipt, whichever is first.
+   e. Report any suspected disclosure to the author without delay.
+   f. Credit the thesis as the source of the data, by citing it, in any work
+      that draws on the data.
+
+3. These terms grant no rights in the participants' personal data beyond their
+   consent. Processing must comply with the GDPR.
+
+4. The data is provided as is, without warranty.
+
+Contact: haidemenoss@gmail.com or sdi2200262@di.uoa.gr
